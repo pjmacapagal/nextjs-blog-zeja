@@ -10,8 +10,19 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-Hello, my name is Patrick Jolo Macapagal. You can call me PJ. I like traveling. My recent trip was when we went to nueva vizcaya and we went to the falls. My favorite and my comfort food is kare kare! I don’t have a favorite music. It depends on my mood when I listen to music. I like making videos about my travels for memories.
-</p>
+    10 Things That Require Zero Talent</p>
+    <ol>
+      <li>Being On Time</li>
+    <li>Making An Effort</li>
+    <li>Being High Energy</li>
+    <li>Having A Positive Attitude</li>
+    <li>Being Passionate</li>
+    <li>Using Good Body Language</li>
+    <li>Being Coachable</li>
+    <li>Doing A Little Extra</li>
+    <li>Being Prepared</li>
+    <li>Having A Strong Work Ethic</li>
+    </ol>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
